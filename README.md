@@ -32,10 +32,10 @@ How can we develop a versatile text editor using the C programming language with
    - **Toolbar:** Include a toolbar with buttons for common actions like save, undo, and find.
 
 ## Team Members:
-- **Anupam Kumar** (2347104): [Brief description of your role in the project]
-- **Aryan Majhi** (2347107): [Brief description of their role]
-- **Hitesh Salimath** (2347118): [Brief description of their role]
-
+- **Anupam Kumar** (2347104)
+- **Aryan Majhi** (2347107)
+- **Hitesh Salimath** (2347118)
+  
 ## Domain:
 Software Development
 
